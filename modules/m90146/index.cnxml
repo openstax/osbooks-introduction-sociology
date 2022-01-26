@@ -1,0 +1,39 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+    <title>Introduction</title>
+    <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m90146</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>5f0b4a03-f79c-442a-9fae-0a8a1359f4df</md:uuid>
+</metadata>
+
+<content>
+<figure id="fs-idm336443200" class="splash">
+<media id="fs-idm387160656" alt="The city of Houston at night, with a full moon.">
+<image mime-type="image/png" src="../../media/CNX_Soc2e_Figure_02_01_001.jpg"/>
+</media>
+<caption>Many believe that crime rates go up during the full moon, but scientific research does not support this conclusion. (Credit: Arman Thanvir/flickr.)</caption>
+</figure>
+<para id="fs-idm372850816">As sociology made its way into American universities, scholars developed it into a science that relies on research to build a body of knowledge. Sociologists began collecting data (observations and documentation) and applying the <term>scientific method</term> or an interpretative framework to increase understanding of societies and social interactions.</para>
+<para id="fs-idm382982144">Our observations about social situations often incorporate biases based on our own views and limited data. To avoid subjectivity, sociologists conduct experiments or studies that gather and analyze <term>empirical evidence</term> from direct experience. Peers review the conclusions from this research and often repeat the experiments or studies or apply them to other contexts in order to validate these conclusions. Examples of peer-reviewed research are found in scholarly journals.</para>
+<para id="fs-idm366409296">Consider a study on the relationship between COVID-19 and crime rates published in <emphasis effect="italics">Crime Science</emphasis>, a scholarly journal. Researchers hypothesized that COVID-19 stay-at-home restrictions would lead to a drop both in street crimes and home burglaries. Researchers collected the data Swedish police used to track and project future crimes. They found that assaults, pickpocketing and burglary had decreased significantly (Gerell, Kardell, and Kindgren, 2020). In this way, researchers used empirical evidence and statistical analysis to answer the question how did COVID-19 restrictions impact crime rates. In this chapter, we will explore the approaches and methods sociologists use to conduct studies like this one.</para>
+<section id="fs-idm360969088" class="references">
+<title>References</title>
+<para id="fs-idm365251056">Arkowitz, Hal, and Scott O. Lilienfeld. 2009. “Lunacy and the Full Moon: Does a full moon really trigger strange behavior?” <emphasis effect="italics">Scientific American</emphasis>. Retrieved December 30, 2014 (http://www.scientificamerican.com/article/lunacy-and-the-full-moon/).</para>
+<para id="fs-idm373621520">Bradbury Jones, C. and Isham, L. (2020), The pandemic paradox: The consequences of COVID 19 on domestic violence. J Clin Nurs, 29: 2047-2049. doi:10.1111/jocn.15296</para>
+<para id="fs-idm384754976">Gerell, M., Kardell, J., &amp; Kindgren, J. (2020, May 2). Minor covid-19 association with crime in Sweden, a ten week follow up. https://doi.org/10.31235/osf.io/w7gka</para>
+<para id="fs-idm362071584">Rotton, James, and Ivan W. Kelly. 1985. “Much Ado about the Full Moon: A Meta-analysis of Lunar-Lunacy Research.”</para>
+<para id="fs-idm320408000"><emphasis effect="italics">Psychological Bulletin</emphasis> 97 (no. 2): 286–306.</para>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm359021104">
+<term>scientific method</term>
+<meaning id="fs-idm373607840">an established scholarly research that involves asking a question, researching existing sources, forming a hypothesis, designing a data collection method, gathering data, and drawing conclusions</meaning>
+</definition>
+<definition id="fs-idm370838672">
+<term>empirical evidence</term>
+<meaning id="fs-idm373567936">evidence that comes from direct observations, scientifically gathered data, or experimentation</meaning>
+</definition>
+</glossary>
+</document>
