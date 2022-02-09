@@ -1,3 +1,3 @@
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-    <book slug="introduction-sociology" collection-id="col11407" href="../collections/introduction-sociology.collection.xml" />
+    <book slug="introduction-sociology" collection-id="col11407" style="sociology" href="../collections/introduction-sociology.collection.xml" />
 </container>
