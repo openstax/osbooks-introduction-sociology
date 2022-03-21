@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m90143</md:content-id>
   <md:title>The History of Sociology</md:title>
-  <md:abstract><para>By the end of this section, you should be able to:</para><list>
+  <md:abstract><para id="para-00001">By the end of this section, you should be able to:</para><list id="list-00001">
 <item>Explain why sociology emerged when it did</item>
 <item>Describe how sociology became a separate academic discipline</item>
 </list></md:abstract>
@@ -33,7 +33,7 @@
 <caption>Early major European theorists. Top row, left to right: Auguste Comte, Harriet Martineau, and Herbert Spencer. Bottom row, left to right: Georg Simmel, Émile Durkheim, and Max Weber. (Credit: Wikimedia Commons; Julius Cornelius Schaarwächter/Public domain.)</caption></figure><section id="fs-idm362978064">
 <title>Auguste Comte (1798 – 1857)</title>
 <para id="fs-idm376254112">The term sociology was first coined in 1780 by the French essayist Emmanuel-Joseph Sieyès (1748–1836) in an unpublished manuscript (Fauré et al. 1999). In 1838, the term was reintroduced by Auguste Comte (1798–1857). Comte originally studied to be an engineer, but later became a pupil of social philosopher Claude Henri de Rouvroy Comte de Saint-Simon (1760–1825). They both thought that social scientists could study society using the same scientific methods utilized in natural sciences. Comte also believed in the potential of social scientists to work toward the betterment of society. He held that once scholars identified the laws that governed society, sociologists could address problems such as poor education and poverty (Abercrombie et al. 2000).</para>
-<para id="fs-idm387758432">Comte named the scientific study of social patterns <term>positivism</term>. He described his philosophy in a series of books called <emphasis effect="italics">The Course in Positive Philosophy</emphasis> (1830–1842) and <emphasis effect="italics">A General View of Positivism</emphasis> (1848). He believed that revealing the laws by which societies and individuals interact would usher in a new “positivist” age of history. While the field and its terminology have grown, sociologists still believe in the positive impact of their work.</para>
+<para id="fs-idm387758432">Comte named the scientific study of social patterns <term id="term-00001">positivism</term>. He described his philosophy in a series of books called <emphasis effect="italics">The Course in Positive Philosophy</emphasis> (1830–1842) and <emphasis effect="italics">A General View of Positivism</emphasis> (1848). He believed that revealing the laws by which societies and individuals interact would usher in a new “positivist” age of history. While the field and its terminology have grown, sociologists still believe in the positive impact of their work.</para>
 </section>
 <section id="fs-idm379334176">
 <title>Harriet Martineau (1802 – 1876)</title>
@@ -103,7 +103,7 @@
 </section>
 <section id="fs-idm379326096">
 <title>George Herbert Mead (1863–1931)</title>
-<para id="fs-idm373097216">George Herbert Mead was a philosopher and sociologist whose work focused on the ways in which the mind and the self were developed as a result of social processes (Cronk, n.d.). He argued that how an individual comes to view himself or herself is based to a very large extent on interactions with others. Though Mead adopted Cooley’s concept of ‘looking-glasses,’ Mead felt that an individual’s reaction to a positive or negative reflection depended on who the ‘other’ was. Individuals that had the greatest impact on a person’s life were <term>significant others</term> while <term>generalized others</term> were the organized and generalized attitude of a social group. Mead often shares the title of father of symbolic interactionism with Cooley and Erving Goffman.</para>
+<para id="fs-idm373097216">George Herbert Mead was a philosopher and sociologist whose work focused on the ways in which the mind and the self were developed as a result of social processes (Cronk, n.d.). He argued that how an individual comes to view himself or herself is based to a very large extent on interactions with others. Though Mead adopted Cooley’s concept of ‘looking-glasses,’ Mead felt that an individual’s reaction to a positive or negative reflection depended on who the ‘other’ was. Individuals that had the greatest impact on a person’s life were <term id="term-00002">significant others</term> while <term id="term-00003">generalized others</term> were the organized and generalized attitude of a social group. Mead often shares the title of father of symbolic interactionism with Cooley and Erving Goffman.</para>
 </section>
 <section id="fs-idm376325712">
 <title>Robert E. Park (1864-1944)</title>

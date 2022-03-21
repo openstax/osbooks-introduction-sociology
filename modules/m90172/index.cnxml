@@ -3,7 +3,7 @@
     <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m90172</md:content-id>
   <md:title>Technology Today</md:title>
-  <md:abstract><para>By the end of this section, you should be able to:</para><list>
+  <md:abstract><para id="para-00001">By the end of this section, you should be able to:</para><list id="list-00001">
 <item>Define technology and describe its evolution</item>
 <item>Explain technological inequality and issues related to unequal access to technology</item>
 <item>Describe the role of planned obsolescence in technological development</item>
@@ -13,10 +13,10 @@
 
 <content>
 <figure id="fs-id3804315">
-   <media id="fs-id1651612" alt="Photo A shows cave etchings appearing to show people on horseback. Photo B shows a sign that reads, 'Please be safe. Do not stand, sit, climb, or lean on fences. If you fall animals could eat you ad that might make them sick.' Photo C shows a person lying horizontally on a flight simulator; their hands are outstretched on the wings, and they are wearing a virtual reality headset.">
+   <media id="fs-id1651612" alt="Photo A shows cave etchings appearing to show people on horseback. Photo B shows a sign that reads, 'Please be safe. Do not stand, sit, climb, or lean on fences. If you fall animals could eat you ad that might make them sick.'">
 <image mime-type="image/jpg" src="../../media/Soc3e_08_01_01.jpg"/>
 </media>
-<caption>Throughout history, technology has been used to convey information. From petroglyphs near a Native American dwelling at Canyon de Chelly, to warning signs outside of animal pens, to virtual flight simulators, our innovations have been used to provide the most effective delivery possible. (Credit: a: Anthony Quintano/flickr; b: tenioman/flickr; c: Arts Santa Monica/flickr)</caption>
+<caption>Throughout history, technology has been used to convey information. From petroglyphs near a Native American dwelling at Canyon de Chelly to warning signs outside of animal pens, our innovations have been used to provide the most effective delivery possible. (Credit: a: Anthony Quintano/flickr; b: tenioman/flickr)</caption>
 </figure>
 <para id="import-auto-id1325061">It is easy to look at the latest virtual reality headset and think technology is a recent addition to our world. But from the steam engine to the most cutting-edge robotic surgery tools, <term id="import-auto-id1215711">technology</term> has described the application of science to address the problems of daily life. We might roll our eyes at enormous and clunky computers of the 1970s that had far less storage than a free thumb drive. But chances are, twenty years from now our skinny laptops and pocket-filling phones will look just as archaic.</para>
 <section id="fs-id2568201">
@@ -59,7 +59,7 @@
 	    </section>
 	    <section id="eip-289">
 	       <title>Net Neutrality</title>
-	       <para id="eip-711">The issue of <term>net neutrality</term>, the principle that all Internet data should be treated equally by Internet service providers, is part of the national debate about Internet access and the digital divide. On one side of this debate is the belief that those who provide Internet service, like those who provide electricity and water, should be treated as common carriers, legally prohibited from discriminating based on the customer or nature of the goods. Supporters of net neutrality suggest that without such legal protections, the Internet could be divided into “fast” and “slow” lanes. A conflict perspective theorist might suggest that this discrimination would allow bigger corporations, such as Amazon, to pay Internet providers a premium for faster service, which could lead to gaining an advantage that would drive small, local competitors out of business.</para>
+	       <para id="eip-711">The issue of <term id="term-00001">net neutrality</term>, the principle that all Internet data should be treated equally by Internet service providers, is part of the national debate about Internet access and the digital divide. On one side of this debate is the belief that those who provide Internet service, like those who provide electricity and water, should be treated as common carriers, legally prohibited from discriminating based on the customer or nature of the goods. Supporters of net neutrality suggest that without such legal protections, the Internet could be divided into “fast” and “slow” lanes. A conflict perspective theorist might suggest that this discrimination would allow bigger corporations, such as Amazon, to pay Internet providers a premium for faster service, which could lead to gaining an advantage that would drive small, local competitors out of business.</para>
 	       <para id="eip-358">The other side of the debate holds the belief that designating Internet service providers as common carriers would constitute an unreasonable regulatory burden and limit the ability of telecommunication companies to operate profitably. A functional perspective theorist might point out that, without profits, companies would not invest in making improvements to their Internet service or expanding those services to underserved areas. The final decision rests with the Federal Communications Commission and the federal government, which must decide how to fairly regulate broadband providers without dividing the Internet into haves and have-nots.</para>
 	    </section>
 </section>

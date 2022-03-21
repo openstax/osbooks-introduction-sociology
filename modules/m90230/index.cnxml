@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m90230</md:content-id>
   <md:title>Health in the United States</md:title>
-  <md:abstract><para>By the end of this section, you should be able to:</para><list>
+  <md:abstract><para id="para-00001">By the end of this section, you should be able to:</para><list id="list-00001">
 <item>Apply social epidemiology to health in the United States</item>
 <item>Explain disparities of health based on gender, socioeconomic status, race, and ethnicity</item>
 <item>Summarize mental health and disability issues in the United States</item>
@@ -35,7 +35,7 @@
 </section>
 <section id="h21903_02">
 <title>Health by Socioeconomic Status</title>
-<para id="import-auto-id2395299">Discussions of health by race and ethnicity often overlap with discussions of health by socioeconomic status, since the two concepts are intertwined in the United States. As the Agency for Health Research and Quality (2010) notes, “racial and ethnic minorities are more likely than non-Hispanic whites to be poor or near poor,” so much of the data pertaining to subordinate groups is also likely to be pertinent to low socioeconomic groups. Marilyn Winkleby and her research associates (1992) state that “one of the strongest and most consistent predictors of a person's morbidity and mortality experience is that person's socioeconomic status (SES). This finding persists across all diseases with few exceptions, continues throughout the entire lifespan, and extends across numerous risk factors for disease.” <term>Morbidity</term> is the incidence of disease.</para>
+<para id="import-auto-id2395299">Discussions of health by race and ethnicity often overlap with discussions of health by socioeconomic status, since the two concepts are intertwined in the United States. As the Agency for Health Research and Quality (2010) notes, “racial and ethnic minorities are more likely than non-Hispanic whites to be poor or near poor,” so much of the data pertaining to subordinate groups is also likely to be pertinent to low socioeconomic groups. Marilyn Winkleby and her research associates (1992) state that “one of the strongest and most consistent predictors of a person's morbidity and mortality experience is that person's socioeconomic status (SES). This finding persists across all diseases with few exceptions, continues throughout the entire lifespan, and extends across numerous risk factors for disease.” <term id="term-00001">Morbidity</term> is the incidence of disease.</para>
 <para id="import-auto-id3635995">It is important to remember that economics are only part of the SES picture; research suggests that education also plays an important role. Phelan and Link (2003) note that many behavior-influenced diseases like lung cancer (from smoking), coronary artery disease (from poor eating and exercise habits), and AIDS initially were widespread across SES groups. However, once information linking habits to disease was disseminated, these diseases decreased in high SES groups and increased in low SES groups. This illustrates the important role of education initiatives regarding a given disease, as well as possible inequalities in how those initiatives effectively reach different SES groups.</para>
 </section>
 <section id="h21903_03">

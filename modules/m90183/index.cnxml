@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m90183</md:content-id>
   <md:title>What Is Social Stratification?</md:title>
-  <md:abstract><para>By the end of this section, you should be able to:</para><list>
+  <md:abstract><para id="para-00001">By the end of this section, you should be able to:</para><list id="list-00001">
 <item>Differentiate between open and closed stratification systems</item>
 <item>Distinguish between caste and class systems</item>
 <item>Explain why meritocracy is considered an ideal system of stratification</item>
@@ -20,7 +20,7 @@
 <caption>In the upper echelons of the working world, people with the most power reach the top. These people make the decisions and earn the most money. The majority of Americans will never see the view from the top. (Credit: Alex Proimos/flickr)</caption>
 </figure>
 <para id="import-auto-id2298621">Sociologists use the term social stratification to describe the system of social standing. <term id="import-auto-id1215359">Social stratification</term> refers to a society’s categorization of its people into rankings based on factors like wealth, income, education, family background, and power.</para>
-<para id="import-auto-id1500393">Geologists also use the word “stratification” to describe the distinct vertical layers found in rock. Typically, society’s layers, made of people, represent the uneven distribution of society’s resources. Society views the people with more resources as the top layer of the social structure of stratification. Other groups of people, with fewer and fewer resources, represent the lower layers. An individual’s place within this stratification  is called <term>socioeconomic status (SES)</term>.</para>
+<para id="import-auto-id1500393">Geologists also use the word “stratification” to describe the distinct vertical layers found in rock. Typically, society’s layers, made of people, represent the uneven distribution of society’s resources. Society views the people with more resources as the top layer of the social structure of stratification. Other groups of people, with fewer and fewer resources, represent the lower layers. An individual’s place within this stratification  is called <term id="term-00001">socioeconomic status (SES)</term>.</para>
 <figure id="import-auto-id1374646">
 <media id="import-auto-id1873846" alt="A rock formation showing various layers is shown.">
 <image mime-type="image/jpg" src="../../media/Soc3e_09_01_02a.jpg"/>
@@ -40,7 +40,7 @@
 <para id="import-auto-id1552355">Other determinants are found in a society’s occupational structure. Teachers, for example, often have high levels of education but receive relatively low pay. Many believe that teaching is a noble profession, so teachers should do their jobs for love of their profession and the good of their students—not for money. Yet, the same attitude is not applied to professional athletes, executives, or those working in corporate world. Cultural attitudes and beliefs like these support and perpetuate social and economic inequalities.</para>
 <section id="eip-173">
 <title>Systems of Stratification</title>
-<para id="import-auto-id3172870">Sociologists distinguish between two types of systems of stratification. <term>Closed systems</term> accommodate little change in social position. They do not allow people to shift levels and do not permit social relationships between levels. Closed systems include estate, slavery, and caste systems. <term>Open systems</term> are based on achievement and allow for movement and interaction between layers and classes. How different systems operate reflect, emphasize, and foster specific cultural values, shaping individual beliefs. In this section, we’ll review class and caste stratification systems, plus discuss the ideal system of meritocracy.</para>
+<para id="import-auto-id3172870">Sociologists distinguish between two types of systems of stratification. <term id="term-00002">Closed systems</term> accommodate little change in social position. They do not allow people to shift levels and do not permit social relationships between levels. Closed systems include estate, slavery, and caste systems. <term id="term-00003">Open systems</term> are based on achievement and allow for movement and interaction between layers and classes. How different systems operate reflect, emphasize, and foster specific cultural values, shaping individual beliefs. In this section, we’ll review class and caste stratification systems, plus discuss the ideal system of meritocracy.</para>
 <section id="fs-id1459860">
 <title>The Caste System</title>
 <figure id="import-auto-id1970772">
@@ -50,7 +50,7 @@
 <caption>India used to have a rigid caste system. The people in the lowest caste suffered from extreme poverty and were shunned by society. Some aspects of India’s defunct caste system remain socially relevant. (Credit: Elessar/flickr)</caption>
 </figure>
 <para id="import-auto-id1227459"><term id="import-auto-id1334606">Caste systems</term> are closed stratification systems where people can do little or nothing to change the social standing of their birth. The caste system determines all aspects of an individual’s life: occupations, marriage partners, and housing. Individual talents, interests, or potential do not provide opportunities to improve a person's social position.</para>
-<para id="import-auto-id1318588">In the Hindu caste tradition, people expect to work in an occupation and to enter into a marriage based on their caste. Accepting this social standing is considered a moral duty and people are socialized to accept their social standing. Cultural values reinforced the system. Caste systems promote beliefs in fate, destiny, and the will of a higher power, rather than promoting individual freedom as a value.  This belief system is an ideology. Every culture has an <term>ideology</term> that supports its system of stratification.</para>
+<para id="import-auto-id1318588">In the Hindu caste tradition, people expect to work in an occupation and to enter into a marriage based on their caste. Accepting this social standing is considered a moral duty and people are socialized to accept their social standing. Cultural values reinforced the system. Caste systems promote beliefs in fate, destiny, and the will of a higher power, rather than promoting individual freedom as a value.  This belief system is an ideology. Every culture has an <term id="term-00004">ideology</term> that supports its system of stratification.</para>
 <para id="import-auto-id1183360">The caste system in India has been officially dismantled, but is still deeply embedded in Indian society, particularly in rural areas. In India’s larger cities, people now have more opportunities to choose their own career paths and marriage partners. As a global center of employment, corporations have introduced merit-based hiring and employment to the nation shifting the cultural expectations of the caste system.</para>
 </section>
 <section id="fs-id2768945">

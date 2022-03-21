@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m90240</md:content-id>
   <md:title>Social Change</md:title>
-  <md:abstract><para>By the end of this section, you should be able to:</para><list>
+  <md:abstract><para id="para-00001">By the end of this section, you should be able to:</para><list id="list-00001">
 <item>Explain how technology, social institutions, population, and the environment can bring about social change</item>
 <item>Discuss the importance of modernization in relation to social change</item>
 </list></md:abstract>
@@ -11,7 +11,7 @@
 </metadata>
 
 <content>
-<para id="import-auto-id1371689">Collective behavior and social movements are just two of the forces driving <term>social change</term>, which is the change in society created through social movements as well as external factors. Essentially, any disruptive shift in the status quo, be it intentional or random, human-caused or natural, can lead to social change.</para>
+<para id="import-auto-id1371689">Collective behavior and social movements are just two of the forces driving <term id="term-00001">social change</term>, which is the change in society created through social movements as well as external factors. Essentially, any disruptive shift in the status quo, be it intentional or random, human-caused or natural, can lead to social change.</para>
 <section id="fs-id1850567">
 <title>Causes of Social Change</title>
 <para id="import-auto-id2217922">Throughout this text, we have discussed various causes and effects of social change. Below is a recap of some major drivers, including technology, social institutions, population, and the environment. Alone or in combination, these agents can disturb, improve, disrupt, or otherwise influence society.</para>
@@ -24,7 +24,7 @@
 <label/>
 <title>Crowdsourcing: Using the Web to Get Things Done</title>
 <para id="eip-id5114789">Millions of people today walk around with their heads tilted toward a small device held in their hands. Perhaps you are reading this textbook on a phone or tablet. People in developed societies now take communication technology for granted. How has this technology affected social change in our society and others? One very positive way is crowdsourcing.</para>
-<para id="eip-id5403208">Thanks to the web, digital <term>crowdsourcing</term> is the process of obtaining needed services, ideas, or content by soliciting contributions from a large group of people, and especially from an online community rather than from traditional employees or suppliers. Web-based companies such as Kickstarter have been created precisely for the purposes of raising large amounts of money in a short period of time, notably by sidestepping the traditional financing process. This book, or virtual book, is the product of a kind of crowdsourcing effort. It has been written and reviewed by several authors in a variety of fields to give you free access to a large amount of data produced at a low cost. The most common example of crowdsourced data is Wikipedia, the online encyclopedia, which is the result of thousands of volunteers adding and correcting material.</para>
+<para id="eip-id5403208">Thanks to the web, digital <term id="term-00002">crowdsourcing</term> is the process of obtaining needed services, ideas, or content by soliciting contributions from a large group of people, and especially from an online community rather than from traditional employees or suppliers. Web-based companies such as Kickstarter have been created precisely for the purposes of raising large amounts of money in a short period of time, notably by sidestepping the traditional financing process. This book, or virtual book, is the product of a kind of crowdsourcing effort. It has been written and reviewed by several authors in a variety of fields to give you free access to a large amount of data produced at a low cost. The most common example of crowdsourced data is Wikipedia, the online encyclopedia, which is the result of thousands of volunteers adding and correcting material.</para>
 <para id="eip-id4987084">Perhaps the most striking use of crowdsourcing is disaster relief. By tracking tweets and e-mails and organizing the data in order of urgency and quantity, relief agencies can address the most urgent calls for help, such as for medical aid, food, shelter, or rescue. On January 12, 2010 a devastating earthquake hit the nation of Haiti. By January 25, a crisis map had been created from more than 2,500 incident reports, and more reports were added every day. The same technology was used to assist victims of the Japanese earthquake and tsunami in 2011.</para>
 </note>
 </section>

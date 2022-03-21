@@ -3,7 +3,7 @@
     <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m90157</md:content-id>
   <md:title>Theoretical Perspectives on Society</md:title>
-  <md:abstract><para>By the end of this section, you should be able to:</para><list>
+  <md:abstract><para id="para-00001">By the end of this section, you should be able to:</para><list id="list-00001">
 <item>Describe Durkheim’s functionalist view of society</item>
 <item>Summarize the conflict theorist view of society</item>
 <item>Explain Marx’s concepts of class and alienation</item>
@@ -49,7 +49,7 @@
 
 <quote id="fs-id2224235"><para id="eip-id1170012815933">Such is the Old Town of Manchester, and on re-reading my description, I am forced to admit that instead of being exaggerated, it is far from black enough to convey a true impression of the filth, ruin, and uninhabitableness, the defiance of all considerations of cleanliness, ventilation, and health which characterise the construction of this single district, containing at least twenty to thirty thousand inhabitants. And such a district exists in the heart of the second city of England, the first manufacturing city of the world.</para></quote>
 
-<para id="import-auto-id2768409">Add to that the long hours, the use of child labor, and exposure to extreme conditions of heat, cold, and toxic chemicals, and it is no wonder that Marx and Engels referred to <term>capitalism</term>, which is a way of organizing an economy so that the things that are used to make and transport products (such as land, oil, factories, ships, etc.) are owned by individual people and companies rather than by the government, as the “dictatorship of the bourgeoisie.” </para>
+<para id="import-auto-id2768409">Add to that the long hours, the use of child labor, and exposure to extreme conditions of heat, cold, and toxic chemicals, and it is no wonder that Marx and Engels referred to <term id="term-00001">capitalism</term>, which is a way of organizing an economy so that the things that are used to make and transport products (such as land, oil, factories, ships, etc.) are owned by individual people and companies rather than by the government, as the “dictatorship of the bourgeoisie.” </para>
 <figure id="import-auto-id2020419">
 		<media id="eip-id2683462" alt="Photos of Karl Marx and Friedrich Engels.">
 		<image mime-type="image/jpg" src="../../media/Soc3e_04_02_04a.jpg"/>
